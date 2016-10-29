@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs"
+  },
+  "files": [
+    "./constants.ts",
+    "./random.ts",
+    "./gene.ts",
+    "./cromossome.ts",
+    "./run.ts"
+  ]
+}
